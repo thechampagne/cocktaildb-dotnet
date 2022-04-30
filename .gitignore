@@ -1,0 +1,5 @@
+.idea/
+src/CocktailDB/bin/
+src/CocktailDB/obj/
+docfx/
+icon.jpg
